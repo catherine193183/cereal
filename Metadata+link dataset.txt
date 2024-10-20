@@ -1,0 +1,35 @@
+https://www.kaggle.com/datasets/crawford/80-cereals >>>dataset link
+
+
+
+-this is Metadata
+
+Name: Cereal Nutritional Information
+
+Description: This dataset contains nutritional information and ratings for different types of cereals. Each row represents a cereal brand with various attributes such as manufacturer, type, nutritional content, and rating.
+
+Attributes:
+
+name: (String) The name of the cereal brand.
+mfr: (String) Manufacturer code of the cereal.
+'N': Nabisco
+'Q': Quaker Oats
+'K': Kellogg's
+'R': Ralston Purina
+'G': General Mills
+type: (String) Type of cereal (e.g., 'C' for cold cereal).
+calories: (Integer) Calories per serving.
+protein: (Integer) Protein content per serving (in grams).
+fat: (Integer) Fat content per serving (in grams).
+sodium: (Integer) Sodium content per serving (in milligrams).
+fiber: (Float) Dietary fiber content per serving (in grams).
+carbo: (Float) Carbohydrate content per serving (in grams).
+sugars: (Integer) Sugar content per serving (in grams).
+potass: (Integer) Potassium content per serving (in milligrams).
+vitamins: (Integer) Percentage of recommended daily vitamins.
+shelf: (Integer) Shelf position in the grocery store (1, 2, or 3).
+weight: (Float) Weight of one serving (in ounces).
+cups: (Float) Cups per serving.
+rating: (Float) Consumer rating of the cereal.
+Number of Entries: 9 (based on the visible data)
+
